@@ -1,1 +1,1 @@
-# odin-recipes
+We will be building a website with various recipes.
