@@ -15,10 +15,21 @@
     The perfect dish for breakfast. 
 
     <h3>Ingredients</h3>
-    <ul>2 eggs</ul>
-    <ul>2 tablespoons sliced cheddar cheese</ul>
-    <ul>2 thin slices ham (optional)</ul>
-    <ul>1 teaspoon heavy whipping cream</ul>
-    <ul> 1/2 teaspoon butter</ul>
+    <ul>
+    <li>2 eggs</li>
+    <li>2 tablespoons sliced cheddar cheese</li>
+    <li>2 thin slices ham (optional)</li>
+    <li>1 teaspoon heavy whipping cream</li>
+    <li>1/2 teaspoon butter</li>
+    </ul>
+
+    <h3>Steps</h3>
+    <ol>
+    <li>Crack eggs into a bowl and whisk together until smooth.</li>
+    <li>Add in cheddar cheese, ham, and heavy cream into the mixture and mix well.</li>
+    <li>Melt butter in a skillet over medium heat.</li>
+    <li>Pour in your egg mixture; cook and stir until set but still moist, for roughly 3-5 minutes.</li>
+    </ol>
+
 </body>
 </html>
